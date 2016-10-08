@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mjdude/notes-node/issues"
   },
-  "homepage": "https://github.com/mjdude/notes-node#readme"
+  "homepage": "https://github.com/mjdude/notes-node#readme",
+  "dependencies": {
+    "lodash": "^4.16.4"
+  }
 }
